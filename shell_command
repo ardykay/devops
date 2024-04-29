@@ -1,0 +1,17 @@
+#!/bin/bash
+
+cd - change directory
+pwd- present working directory
+ls - list content in a folder
+cat - view the content of a file
+echo - write to a file
+touch - create a file
+
+
+git command
+
+git init - create a new repo
+git add - add change make to a file
+git commit - create a version of the the changes made to the file
+git push - push code to github for distribution
+git checkout -b - create and change working branch
