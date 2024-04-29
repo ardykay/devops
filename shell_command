@@ -15,3 +15,8 @@ git add - add change make to a file
 git commit - create a version of the the changes made to the file
 git push - push code to github for distribution
 git checkout -b - create and change working branch
+
+git diff - check recent changes made to file
+git status - check commit history
+git clone - connect to a remote delivery system
+
